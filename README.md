@@ -59,17 +59,6 @@ This project demonstrates an asynchronous, decoupled architecture designed to ha
 3. Observe messages queuing up inside **Amazon SQS**.
 4. Re-enable the trigger to watch SQS automatically drain and populate items into **DynamoDB**.
 
-## Features
-Serverless Architecture
-Event-driven Processing
-Amazon API Gateway HTTP API
-Asynchronous Messaging using Amazon SQS
-AWS Lambda Integration
-Amazon DynamoDB
-CloudFront Distribution
-Route 53 Custom Domain
-CloudWatch Monitoring
-
 
 ## Skills Demonstrated
 Amazon S3
@@ -83,14 +72,6 @@ IAM
 CloudWatch
 Event-driven Architecture
 Serverless Computing
-
-
-## API Endpoint 
-| Method | Endpoint     | Purpose                 |
-| ------ | ------------ | ----------------------- |
-| POST   | /register  | Register a new employee |
-| GET    | /employees | Retrieve all employees  |
-
 
 
 ## Connect with Me
