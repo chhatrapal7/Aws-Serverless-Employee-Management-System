@@ -16,7 +16,7 @@ This project demonstrates an asynchronous, decoupled architecture designed to ha
 
 
 ## 📐 Architecture Diagram
-![Architecture Diagram](docs/architecture-diagram.jpg)
+![Architecture Diagram](diagram/Project.png)
 
 
 ## 💡 Key Architectural Benefits (Why SQS?)
