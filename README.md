@@ -98,5 +98,5 @@ This project demonstrates an asynchronous, decoupled architecture designed to ha
 **Chhatrapal Janghel**  
 *AWS Cloud | DevOps | Multi-Cloud*
 
-* **LinkedIn**: https://www.linkedin.com/in/chhatrapaljanghel7
+* **LinkedIn**: https://www.linkedin.com/in/chhatrapal7
 * **Portfolio**: https://chhatrapal.in
